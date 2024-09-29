@@ -1,0 +1,2 @@
+[dependencies]
+walkdir = "2.3" # For traversing the directory
